@@ -1,6 +1,6 @@
 # Golang SQL
 
-Integrating SQl with Golang
+Integrating SQL with Golang
 
 # Requirement
 
